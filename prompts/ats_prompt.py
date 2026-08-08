@@ -5,7 +5,7 @@ Analyze the resume.
 
 Provide:
 
-1. ATS Score (/100)
+1. ATS Score
 2. Strengths
 3. Weaknesses
 4. Missing Skills
