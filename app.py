@@ -84,8 +84,7 @@ ATS Analysis • JD Matching • Interview Preparation • Cover Letters • Lin
 
 with st.sidebar:
 
-st.title('<div style="border: 2px solid #000000; padding: 10px; border-radius: 5px; background-color: #f9f9f9; display: inline-block;"> Platform Features</div>', unsafe_allow_html=True)
-
+    st.title(" Platform Features")
     st.markdown("""
     ➤ ATS Analysis
 
