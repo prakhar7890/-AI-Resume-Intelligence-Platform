@@ -71,7 +71,7 @@ st.markdown("""
 
 st.markdown("""
 <div class="hero">
-<h1>🚀 AI Resume Intelligence Platform</h1>
+<h1> AI Resume Intelligence Platform</h1>
 <p>
 ATS Analysis • JD Matching • Interview Preparation • Cover Letters • LinkedIn Optimization
 </p>
@@ -87,15 +87,15 @@ with st.sidebar:
     st.title("📌 Platform Features")
 
     st.markdown("""
-    ✅ ATS Analysis
+    ➤ ATS Analysis
 
-    ✅ Resume-JD Match
+    ➤ Resume-JD Match
 
-    ✅ Interview Questions
+    ➤ Interview Questions
 
-    ✅ Cover Letter Generator
+    ➤ Cover Letter Generator
 
-    ✅ LinkedIn Optimizer
+    ➤ LinkedIn Optimizer
     """)
 
     st.divider()
@@ -166,7 +166,7 @@ if resume_file:
     )
 
     st.success(
-        f"✅ Resume Uploaded: {resume_file.name}"
+        f"➤ Resume Uploaded: {resume_file.name}"
     )
 
 if jd_file:
@@ -176,7 +176,7 @@ if jd_file:
     )
 
     st.success(
-        f"✅ JD Uploaded: {jd_file.name}"
+        f"➤ JD Uploaded: {jd_file.name}"
     )
 
 # =====================================================
