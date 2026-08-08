@@ -5,7 +5,7 @@ Compare the resume and job description.
 
 Return:
 
-1. Match Score (/100)
+1. Match Score
 2. Matching Skills
 3. Missing Skills
 4. Recommended Improvements
