@@ -17,7 +17,7 @@ from prompts.linkedin_prompt import LINKEDIN_PROMPT
 
 st.set_page_config(
     page_title="AI Resume Intelligence Platform",
-    page_icon="🚀",
+    page_icon="",
     layout="wide",
     initial_sidebar_state="expanded"
 )
